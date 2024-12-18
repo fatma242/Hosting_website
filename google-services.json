@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "529821159961",
+    "project_id": "cloudtask-a9567",
+    "storage_bucket": "cloudtask-a9567.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529821159961:android:11a9fdfa21a30cf5555088",
+        "android_client_info": {
+          "package_name": "com.example.c"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSnByezRHX7ue8Pkocg01PtDEPz8X_RyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529821159961:android:ccc3f1ed79cd96db555088",
+        "android_client_info": {
+          "package_name": "com.example.cloud_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSnByezRHX7ue8Pkocg01PtDEPz8X_RyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529821159961:android:11d777040f1d75b2555088",
+        "android_client_info": {
+          "package_name": "com.example.cloud_task2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSnByezRHX7ue8Pkocg01PtDEPz8X_RyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
